@@ -1,5 +1,8 @@
 # 💫 About Me:
-- I am currently a student in the University Of Limerick doing a bachelor's in Computer Systems.<br><br>- I am an Ericssons bursary recipient <br><br>- I am currently working on an AI/ML project in my own time<br><br>- I am self driven and open to challenges<br>
+- I am currently a student in the University Of Limerick doing a bachelor's in Computer Systems.<br><br>
+- I am an Ericssons bursary recipient <br><br>
+- I am currently working on an AI/ML project in my own time<br><br>
+- I am self driven and open to challenges<br>
 
 
 ## 🌐 Socials:
